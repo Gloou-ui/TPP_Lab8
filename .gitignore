@@ -1,0 +1,5 @@
+/build/
+/vcpkg_installed/
+/clinic_queue.db
+/clinic_queue.db-shm
+/clinic_queue.db-wal
